@@ -1,0 +1,15 @@
+https://www.kaggle.com/competitions/ieee-fraud-detection/data
+
+This Dataset has for attributes:
+test_identity.csv
+test_transaction.csv
+train_identity.csv
+train_transaction.csv
+
+After data preprocessing and cleaning, the data folder in the zip file finally has:
+test.csv
+test_after_missing_binning.csv
+test_after_missing_value.csv
+train.csv
+train_after_missing_binning.csv
+train_after_missing_value.csv
